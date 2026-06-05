@@ -37,7 +37,7 @@
 <br>
 <div align=center>
   <a href="#" title="Cychipo">
-    <img align="center" src="https://github-readme-stats-rosy-sigma-66.vercel.app/api?username=cychipo&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats-rosy-sigma-66.vercel.app/api?username=tgiap04&show_icons=true&theme=radical" />
   </a>
 </div>
 <br>
